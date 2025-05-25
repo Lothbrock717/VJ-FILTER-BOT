@@ -1829,7 +1829,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             buttons = [[
                 InlineKeyboardButton('⤬ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-                InlineKeyboardButton('Anime Channel', url="https://t.me/+rt0IjJ2snpMzMTE1"),
+                InlineKeyboardButton('ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ', url="https://t.me/+rt0IjJ2snpMzMTE1"),
                 InlineKeyboardButton('ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ', url=GRP_LNK)
             ],[
                 InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
